@@ -1,70 +1,21 @@
-# Getting Started with Create React App
+# React Project for API Training with Ant Design and Chart.js
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Watch Live
 
-In the project directory, you can run:
+https://crypto-react-app-alpha.vercel.app/
 
-### `npm start`
+https://crypto-react-app11.netlify.app/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Description
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+This React project focuses on API training, specifically emphasizing the integration and utilization of various APIs. The primary objective of the project is to enhance your understanding and proficiency in working with API data, rather than emphasizing the user interface.
 
-### `npm test`
+Despite the project's primary focus on APIs, it doesn't compromise the responsiveness of the application. The user interface has been designed to be responsive and adapt seamlessly to different screen sizes, ensuring a consistent experience across devices.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To aid in the development process, the project utilizes Ant Design, a popular UI component library for React. Ant Design provides a comprehensive set of pre-designed components, styles, and layouts, enabling faster and more consistent development while maintaining visual appeal.
 
-### `npm run build`
+In addition to Ant Design, the project also incorporates Chart.js, a powerful and flexible JavaScript library for creating charts and data visualizations. By leveraging Chart.js, you can present API data in a visually appealing and intuitive manner, enhancing the understanding and insight derived from the information.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+To ensure a comfortable reading experience, the project focuses on arranging texts in a visually pleasing manner. By carefully considering typography, spacing, and readability, the project strives to create an interface that is easy on the eyes, enhancing user engagement and comprehension.
