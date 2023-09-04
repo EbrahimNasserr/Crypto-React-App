@@ -1,7 +1,5 @@
 # React Project for API Training with Ant Design and Chart.js
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Watch Live
 
 https://crypto-react-app-alpha.vercel.app/
